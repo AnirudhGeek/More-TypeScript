@@ -16,3 +16,4 @@ function id<T>(x:T):T{
 const xyzz = id(5)
 console.log(xyzz + 1 , id("anirudh"), id(["Abhinav"]) )
 //general ts
+//more ts
